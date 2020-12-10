@@ -1,0 +1,15 @@
+{"name": "example",
+ "data_path": "path/to/data/eng-fra_small.txt",
+ "checkpoint_dir": "path/to/seq2seq/model_checkpoints/",
+ "reverse_input": true,
+ "embedding_dimension": 100,
+ "num_layers": 2,
+ "epochs": 30,
+ "batch_size": 1,
+ "grad_accumulation_steps": 32,
+ "learn_rate": 0.015,
+ "train": true,
+ "sample": true,
+ "validate": false,
+ "test": false
+}

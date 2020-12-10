@@ -1,0 +1,11 @@
+{"name": "example",
+ "data_dir": "path/to/data/conll03/",
+ "glove_path": "path/to/glove.6B.*d.txt",
+ "checkpoint_dir": "path/to/token_classification/model_checkpoints/",
+ "epochs": 2,
+ "batch_size": 16,
+ "learn_rate": 0.015,
+ "train": true,
+ "validate": true,
+ "test": false
+}
