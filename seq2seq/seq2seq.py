@@ -159,6 +159,7 @@ class Seq2Seq(nn.Module):
                 decoder_input = logits.argmax(1).detach()
                 if teacher_forcing_prob == 0.0:
                     if decoder_input.item() == self.eos_token_idx:
+                        # Remove the extra 0s on the end.
                         decoder_outputs = decoder_outputs[:i+1, :]
                         break
                 decoder_input = torch.unsqueeze(decoder_input, 0)
