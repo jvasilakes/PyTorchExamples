@@ -1,0 +1,12 @@
+{"name": "example",
+ "data_path": "/path/to/rnnlm/data/sentences.jsonl",
+ "glove_path": "/path/to/glove.6B/glove.6B.100d.txt",
+ "checkpoint_dir": "/path/to/rnnlm/model_checkpoints",
+ "epochs": 10,
+ "batch_size": 32,
+ "learn_rate": 0.01,
+ "train": true,
+ "sample": true,
+ "validate": false,
+ "test": false
+}
