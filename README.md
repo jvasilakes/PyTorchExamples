@@ -11,3 +11,4 @@ and refactor to new projects in order to save time.
 
  * [BiLSTM for token classification](https://github.com/jvasilakes/PyTorchExamples/tree/master/token_classification)
  * [LSTM Seq2Seq model for translation](https://github.com/jvasilakes/PyTorchExamples/tree/master/seq2seq)
+ * [LSTM laguage model for conditioned text generation](https://github.com/jvasilakes/PyTorchExamples/tree/master/rnnlm)
