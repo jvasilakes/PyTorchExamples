@@ -1,0 +1,4 @@
+logs/
+model_checkpoints/
+runs/
+test.json

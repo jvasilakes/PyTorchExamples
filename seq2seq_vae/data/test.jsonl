@@ -1,0 +1,500 @@
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a", "length": 4, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a a", "length": 19, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b", "length": 11, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a", "length": 16, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b", "length": 5, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b", "length": 11, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b", "length": 15, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b", "length": 10, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b b", "length": 19, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a", "length": 4, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a a", "length": 19, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a", "length": 18, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a", "length": 14, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a a", "length": 19, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a", "length": 12, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a", "length": 16, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a", "length": 14, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b", "length": 14, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b", "length": 10, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b", "length": 15, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b", "length": 14, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a", "length": 16, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b", "length": 11, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b b", "length": 19, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a", "length": 16, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a", "length": 12, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b", "length": 2, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a", "length": 4, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a", "length": 11, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a a", "length": 19, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a a", "length": 19, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a", "length": 10, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b", "length": 2, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a", "length": 16, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a a", "length": 19, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b", "length": 10, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b", "length": 2, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a", "length": 12, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b", "length": 2, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a", "length": 10, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b", "length": 14, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a", "length": 4, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a", "length": 14, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b", "length": 14, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b", "length": 11, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a a", "length": 19, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b", "length": 14, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b b", "length": 19, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a", "length": 14, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a", "length": 10, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a", "length": 5, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b", "length": 15, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a", "length": 10, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a", "length": 5, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a", "length": 18, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a", "length": 16, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a", "length": 10, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b", "length": 10, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a a", "length": 19, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a", "length": 18, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a", "length": 4, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b", "length": 5, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a", "length": 5, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b", "length": 10, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b", "length": 11, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b", "length": 11, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a", "length": 5, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b", "length": 15, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a", "length": 14, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a", "length": 16, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a", "length": 2, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b", "length": 15, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b b", "length": 19, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a", "length": 14, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a", "length": 5, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a a", "length": 19, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a", "length": 14, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a", "length": 2, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a", "length": 18, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b b", "length": 19, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b", "length": 11, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a", "length": 12, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a", "length": 12, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b", "length": 15, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b", "length": 15, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a a", "length": 19, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b", "length": 10, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a", "length": 11, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a", "length": 18, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a", "length": 2, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b", "length": 2, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b", "length": 15, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b", "length": 2, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a", "length": 2, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a", "length": 5, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a", "length": 18, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b", "length": 2, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b", "length": 2, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a", "length": 12, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a", "length": 10, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b", "length": 14, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a", "length": 5, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a", "length": 14, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a", "length": 16, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b", "length": 15, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a", "length": 4, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b", "length": 5, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a", "length": 4, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b", "length": 10, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a", "length": 18, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b", "length": 2, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a", "length": 2, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a", "length": 2, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a", "length": 5, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a", "length": 5, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a", "length": 11, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a", "length": 10, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a", "length": 12, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b", "length": 14, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a", "length": 18, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b", "length": 15, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a", "length": 18, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b", "length": 14, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a", "length": 4, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b", "length": 2, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b", "length": 5, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a", "length": 12, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b", "length": 13, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a", "length": 12, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a", "length": 12, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b b", "length": 19, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a", "length": 18, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a", "length": 2, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b", "length": 10, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a", "length": 16, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a", "length": 18, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b", "length": 5, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a", "length": 10, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b", "length": 11, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a", "length": 12, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a a", "length": 19, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a", "length": 10, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b", "length": 11, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a", "length": 11, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b", "length": 5, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b b", "length": 19, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b", "length": 10, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a", "length": 18, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a", "length": 11, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a", "length": 11, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b", "length": 15, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a", "length": 2, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b", "length": 5, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b", "length": 11, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a", "length": 7, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a", "length": 18, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a", "length": 5, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a", "length": 4, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a", "length": 4, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a", "length": 2, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b", "length": 6, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b", "length": 10, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a", "length": 16, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b", "length": 11, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b", "length": 10, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a", "length": 12, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b", "length": 17, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a", "length": 14, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a", "length": 9, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a", "length": 4, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b b b", "length": 18, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a", "length": 6, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a", "length": 2, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a", "length": 10, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b", "length": 2, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b", "length": 8, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b", "length": 10, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b", "length": 2, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a", "length": 4, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b", "length": 14, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b", "length": 5, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a", "length": 14, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a a a", "length": 19, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a", "length": 2, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a", "length": 14, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b", "length": 9, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b b", "length": 16, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b", "length": 14, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b b", "length": 15, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a", "length": 5, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b", "length": 11, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b", "length": 12, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b", "length": 14, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a a", "length": 17, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a", "length": 13, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b", "length": 4, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a", "length": 15, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b", "length": 5, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b", "length": 7, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a a a", "length": 16, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a", "length": 8, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a a", "length": 4, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b", "length": 3, "class": 1, "prob_lowercase": 1.0}
+{"sentence": "a a a a a a a a a a a a a a", "length": 14, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "a a a", "length": 3, "class": 0, "prob_lowercase": 1.0}
+{"sentence": "b b b b b b b b b b b b b b", "length": 14, "class": 1, "prob_lowercase": 1.0}

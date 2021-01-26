@@ -1,0 +1,1 @@
+python generate_toy_data.py --outdir toy_data_l2 --length_range 2 20 --num_classes 2 --lowercase_prob 1.0 --Ntrain 1000 --Neval 500
