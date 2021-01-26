@@ -30,3 +30,8 @@ validate: bool, whether to run evaluation on dev set
 test: bool, whether to run evaluation on test set
 sample: bool, whether to generate samples from the posterior
 ```
+
+Plot the posterior z values:
+```
+python plot_zs.py logs/example/zs/ train logs/example/zs/plots
+```
